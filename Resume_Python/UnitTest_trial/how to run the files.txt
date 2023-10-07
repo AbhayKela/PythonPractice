@@ -1,0 +1,18 @@
+write a math funciton file
+Add unique math funcitons
+Creat a test file for unit tests
+import math funciton into new test file
+define funcion for each math function in math function file
+use assert to operate math funciton 
+Compare result
+Go to terminal and in relevant directory
+pytest test_math_func.py -v (for result in verbose)
+py.test -v (is an alternative method to run unit test file fron termainal)
+py.test -v -k "add" -> will run test with add as key word
+py.test -v -k "add or string" -> will run test with add or string as key word
+py.test -v -k "add and " -> will run test with add and sting as key words
+py.test -v -k "add" -> will run test with add as key word
+py.test -v -m number -> will run test with numbers as marker
+pytest -v -x -> test exit when first failure occurs
+pytest -v -x --tb = no -> test exit when first failure occurs without providgin trace
+pytest -v -x -maxfail=2 -> test runs till max failure of 2
