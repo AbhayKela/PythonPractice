@@ -1,0 +1,95 @@
+Absolute path: The full, unambiguous path from the root directory at the top of the tree, all the way to the file or directory being indicated. 
+
+API: Application programming interfaces are the public-facing functions, methods and data with which users and developers interacts. 
+
+Assertion: an assertion in software is an operation that compares two values. If the assertion returns a false Boolean value, a runtime exception is thrown.
+
+Container:  A data structure that holds other variables. For example, a tuple, list, or dictionary. 
+Regression test: A test that serves to guarantee the preservation of expected behavior through changes in the code base. A suite of unit tests can serve as regression tests when they are run after changes are made. 
+Metadata: A data about data.
+
+Version control: Version control is a method by which a repository is created for holding versions of a set of files. Version control systems include Git, Mercurial, SVN, CVS, and more. These systems allow storage, recall, and distribution of sets of files under development. Plain-text files, such as code and markup, are well suited to version control. 
+
+Command-line interface: The command-line interface, or CLI, provides access to the shell. Commands can be entered into the command-line prompt to navigate the filesystem, run programs, and manipulate files. 
+
+Paths: Absolute and relative paths: Paths are absolute if they begin at the top of the filesystem directory tree. The very top of the filesystem directory tree is called the root directory. The path to the root directory is /. Therefore, absolute paths start with /. 
+
+Pwd: Print working directory, to print given working directory. 
+
+Touch: command in the terminal to create empty file in given directory ex. abhaykela@Abhays-MacBook-Pro Desktop % touch test.txt
+
+Cat command is to print the data from the given file in terminal, copy data from one file to another file and adding data to a file from terminal without opening a file.
+-	Cat notes.txt: it will print data of a file named notes.txt from the given directory to terminal window
+-	Cat notes.txt > notes_copy.docs : it will copy data from one file to another
+-	Cat > notes.txt : it will erase previous data from this file and add new data as provided by user in a terminal window. It will keep asking for more input unless pressed cntrl + d
+
+
+cp: it is a copy command.
+Cp syntax: cp <source> <destination>
+
+Make directory: it makes new directory
+
+mkdir< command 
+
+Go back to previous directory: cd ~ (cd tilde)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
