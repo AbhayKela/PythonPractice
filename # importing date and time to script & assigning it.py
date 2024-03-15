@@ -1,4 +1,4 @@
-# importing date and time to script & assigning it ot variable a 
+# importing date and time to script & assigning it to variable
 
 from datetime import datetime
 Date = datetime.now()
