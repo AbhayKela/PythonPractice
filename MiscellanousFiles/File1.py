@@ -1,5 +1,5 @@
 a = 10
-type (a)
+print(type (a))
 
 
 
